@@ -151,9 +151,9 @@
                     </plugin>
                 </plugins>
             </build>
-            <properties>
+<!--            <properties>
                 <gpg.executable>c:\Program Files (x86)\GnuPG\bin\gpg.exe</gpg.executable>
-            </properties>
+            </properties>-->
         </profile>
 
     </profiles>
