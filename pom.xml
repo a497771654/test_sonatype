@@ -160,7 +160,6 @@
             </build>
             <properties>
                 <gpg.executable>c:\Program Files (x86)\GnuPG\bin\gpg.exe</gpg.executable>
-                <gpg.passphrase>nvnv030588junjun</gpg.passphrase>
             </properties>
         </profile>
 
